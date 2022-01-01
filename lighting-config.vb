@@ -1,4 +1,4 @@
-'The lights on the system are unique and able to be controlled by the special "sun" command, and indicate the intensity and generalized timing of different colored LEDs. Timings based on [this publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5743687/)
+'The lights on the system are unique and able to be controlled by the special "sun" command, and indicate the intensity and generalized timing of different colored LEDs. Timings based on this publication - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5743687/'
 
 Fallback OFF 'If the connection to the system is lost, lights are shut off'
 Set OFF 'Normally, the lights are off'
